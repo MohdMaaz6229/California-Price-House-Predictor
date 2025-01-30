@@ -9,7 +9,7 @@ The dataset contains information on housing prices and other socio-economic fact
 - **House Age**
 - **Total Rooms & Bedrooms**
 - **Population & Households**
-- **Proximity to the Ocean**
+- **Geographical Features (Latitude & Longitude)**
 
 ## 🚀 Technologies Used
 - **Python** 🐍
