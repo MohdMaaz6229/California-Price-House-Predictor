@@ -1,5 +1,3 @@
-# California-Price-Predictor
-
 # California House Price Prediction
 
 ## 📌 Project Overview
